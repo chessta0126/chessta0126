@@ -19,12 +19,12 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 ### 프로젝트
-<a href="[https://blog.naver.com/PostList.naver?blogId=tjdrhkd0126](https://github.com/chessta0126/festivalBooking/blob/develop/README.md)" target="_blank">
+<a href="https://blog.naver.com/PostList.naver?blogId=tjdrhkd0126" target="_blank">
    <img src="https://img.shields.io/badge/공연예매 프로젝트-232F3E?style=for-the-badge">
 </a>
    
-<a href="[https://blog.naver.com/PostList.naver?blogId=tjdrhkd0126](https://github.com/chessta0126/festivalBooking/blob/develop/README.md)" target="_blank">
-   <img src="https://img.shields.io/badge/공연예매 프로젝트-232F3E?style=for-the-badge">
+<a href="https://github.com/chessta0126/sns_220919" target="_blank">
+   <img src="https://img.shields.io/badge/SNS-232F3E?style=for-the-badge">
 </a>
 </div>
 
