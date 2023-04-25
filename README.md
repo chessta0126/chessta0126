@@ -24,7 +24,7 @@
 </a>
    
 <a href="https://github.com/chessta0126/sns_220919" target="_blank">
-   <img src="https://img.shields.io/badge/SNS-232F3E?style=for-the-badge">
+   <img src="https://img.shields.io/badge/SNS-232F3E?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <a href="https://github.com/chessta0126/memo_220919" target="_blank">
