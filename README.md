@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://github.com/chessta0126/memo_220919" target="_blank">
-   <img src="https://img.shields.io/badge/메모장-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+   <img src="https://img.shields.io/badge/메모장-1572B6?style=for-the-badge&logo=ReadtheDocs&logoColor=white">
 </a>
    
 </div>
