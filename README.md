@@ -1,12 +1,11 @@
+<div align="center">
+
 ### Connect to other Links
 <a href="https://blog.naver.com/PostList.naver?blogId=tjdrhkd0126" target="_blank">
    <img src="https://img.shields.io/badge/blog-green?style=flat&logo=appveyor&logoColor=critical"/>
 </a>
 
-
-
-
-
+</div>
 
 
 
