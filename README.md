@@ -20,7 +20,7 @@
 
 ### 프로젝트
 <a href="https://github.com/chessta0126/festivalBooking" target="_blank">
-   <img src="https://img.shields.io/badge/공연예매 프로젝트-181717?style=for-the-badge">
+   <img src="https://img.shields.io/badge/공연예매 프로젝트-181717?style=for-the-badge&logo=Bandsintown&logoColor=white">
 </a>
    
 <a href="https://github.com/chessta0126/sns_220919" target="_blank">
